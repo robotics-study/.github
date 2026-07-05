@@ -7,7 +7,8 @@
 | 경로 | 용도 |
 |------|------|
 | [`profile/README.md`](profile/README.md) | 조직 프로필 페이지 — [github.com/robotics-study](https://github.com/robotics-study) 상단에 노출 |
-| `profile/assets/` | 프로필 배너 SVG (라이트/다크 테마) |
+| `profile/assets/banner-{light,dark}.svg` | 프로필 배너 (라이트/다크 테마) |
+| `profile/assets/avatar.{svg,png}` | 조직 아바타 원본 — `avatar.png` 를 **Settings → Profile picture** 에서 업로드 |
 
 ## 배너 수정
 
