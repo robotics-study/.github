@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+  <defs>
+    <linearGradient id="g" x1="300" y1="720" x2="724" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#818cf8"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(512 470) scale(430)">
+      <stop stop-color="#6366f1" stop-opacity="0.38"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#24304a" stroke-width="1.5"/>
+    </pattern>
+  </defs>
+  <rect width="1024" height="1024" fill="#0b1020"/>
+  <rect width="1024" height="1024" fill="url(#grid)" opacity="0.55"/>
+  <rect width="1024" height="1024" fill="url(#glow)"/>
+  <!-- path-graph logo, centered, circle-safe -->
+  <g transform="translate(512 512) scale(15.5) translate(-12 -12)">
+    <path d="M4 19V11h8V5h8" fill="none" stroke="url(#g)" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="4" cy="19" r="3" fill="url(#g)"/>
+    <circle cx="20" cy="5" r="3" fill="url(#g)"/>
+    <circle cx="12" cy="11" r="1.9" fill="#0b1020" stroke="url(#g)" stroke-width="1.4"/>
+  </g>
+</svg>

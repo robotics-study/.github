@@ -44,7 +44,7 @@
 
   <!-- wordmark -->
   <text x="232" y="150" font-family="Inter, system-ui, -apple-system, Segoe UI, sans-serif" font-size="62" font-weight="800" letter-spacing="-1.5" fill="#0f172a">robotics<tspan fill="#5b6b82" font-weight="700">-study</tspan></text>
-  <text x="234" y="196" font-family="Inter, system-ui, -apple-system, Segoe UI, sans-serif" font-size="23" font-weight="500" fill="#5b6b82">로봇공학 주제별 학습 아카이브 · one repo per topic</text>
+  <text x="234" y="196" font-family="Inter, system-ui, -apple-system, Segoe UI, sans-serif" font-size="23" font-weight="500" fill="#5b6b82">로봇공학을 주제별로 직접 구현하며 공부합니다</text>
 
   <!-- topic chips -->
   <g font-family="ui-monospace, SF Mono, Menlo, monospace" font-size="15" font-weight="600">
