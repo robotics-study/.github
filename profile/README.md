@@ -12,8 +12,8 @@
 
 <br>
 
-[![Approach](https://img.shields.io/badge/study-hands--on-6366f1?style=flat-square&labelColor=0f172a)](https://github.com/orgs/robotics-study/repositories)
-[![Docs](https://img.shields.io/badge/docs-github.io-06b6d4?style=flat-square&labelColor=0f172a)](https://robotics-study.github.io/navigation/)
+[![Home](https://img.shields.io/badge/home-robotics--study.github.io-6366f1?style=flat-square&labelColor=0f172a)](https://robotics-study.github.io/)
+[![Approach](https://img.shields.io/badge/study-hands--on-06b6d4?style=flat-square&labelColor=0f172a)](https://github.com/orgs/robotics-study/repositories)
 [![Languages](https://img.shields.io/badge/C%2B%2B%20·%20Python-0891b2?style=flat-square&labelColor=0f172a)](#)
 [![Location](https://img.shields.io/badge/Korea-5b6b82?style=flat-square&labelColor=0f172a)](#)
 

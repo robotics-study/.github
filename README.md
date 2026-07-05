@@ -7,8 +7,9 @@
 | 경로 | 용도 |
 |------|------|
 | [`profile/README.md`](profile/README.md) | 조직 프로필 페이지 — [github.com/robotics-study](https://github.com/robotics-study) 상단에 노출 |
-| [`docs/index.html`](docs/index.html) | 조직 랜딩 사이트 (GitHub Pages) — `navigation` 사이트 톤에 맞춘 소개 페이지 |
 | `profile/assets/` | 프로필 배너 · 아바타 SVG (라이트/다크 테마) |
+
+> 조직 홈사이트(랜딩 페이지)는 별도 저장소 [`robotics-study.github.io`](https://github.com/robotics-study/robotics-study.github.io) 에서 관리합니다 → https://robotics-study.github.io/
 
 ## 배너 수정
 
@@ -21,4 +22,4 @@
 open profile/assets/banner-dark.svg
 ```
 
-새 주제를 추가하면 `profile/README.md` 의 **공부할 수 있는 주제** 표와 `docs/index.html` 의 카드를 함께 갱신합니다.
+새 주제를 추가하면 `profile/README.md` 의 **공부할 수 있는 주제** 표와 홈사이트([`robotics-study.github.io`](https://github.com/robotics-study/robotics-study.github.io)) 카드를 함께 갱신합니다.
