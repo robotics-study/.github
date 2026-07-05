@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" fill="none" role="img" aria-label="robotics-study — robotics subjects for study">
+  <defs>
+    <linearGradient id="grad" x1="120" y1="260" x2="1160" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 90) rotate(140) scale(420 360)">
+      <stop stop-color="#6366f1" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#e2e8f0" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" rx="20" fill="#ffffff"/>
+  <rect width="1280" height="320" rx="20" fill="url(#grid)" opacity="0.7"/>
+  <rect width="1280" height="320" rx="20" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="19.5" fill="none" stroke="#e2e8f0"/>
+
+  <!-- path-planning motif: expanding frontier + a solved route from start to goal -->
+  <g>
+    <g fill="#6366f1" opacity="0.14">
+      <circle cx="905" cy="118" r="5"/><circle cx="963" cy="118" r="5"/><circle cx="905" cy="176" r="5"/>
+      <circle cx="1021" cy="176" r="5"/><circle cx="1079" cy="118" r="5"/><circle cx="1079" cy="234" r="5"/>
+      <circle cx="963" cy="234" r="5"/><circle cx="1137" cy="176" r="5"/>
+    </g>
+    <path d="M905 240 L905 176 L1021 176 L1021 118 L1137 118" fill="none" stroke="url(#grad)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="905" cy="240" r="11" fill="#ffffff" stroke="url(#grad)" stroke-width="3.5"/>
+    <circle cx="905" cy="240" r="3.5" fill="url(#grad)"/>
+    <circle cx="1021" cy="176" r="6" fill="url(#grad)"/>
+    <circle cx="1021" cy="118" r="6" fill="url(#grad)"/>
+    <path d="M1131 112 l12 6 -12 6 z" fill="url(#grad)"/>
+    <circle cx="1137" cy="118" r="11" fill="none" stroke="url(#grad)" stroke-width="3.5"/>
+  </g>
+
+  <!-- logo mark -->
+  <g transform="translate(96 116)">
+    <rect x="-24" y="-24" width="96" height="96" rx="22" fill="#f8fafc" stroke="#e2e8f0"/>
+    <path d="M4 44V22h22V0h22" transform="translate(-1 -1) scale(1.02)" fill="none" stroke="url(#grad)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="3" cy="43" r="6.5" fill="url(#grad)"/>
+    <circle cx="47" cy="-1" r="6.5" fill="url(#grad)"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="232" y="150" font-family="Inter, system-ui, -apple-system, Segoe UI, sans-serif" font-size="62" font-weight="800" letter-spacing="-1.5" fill="#0f172a">robotics<tspan fill="#5b6b82" font-weight="700">-study</tspan></text>
+  <text x="234" y="196" font-family="Inter, system-ui, -apple-system, Segoe UI, sans-serif" font-size="23" font-weight="500" fill="#5b6b82">로봇공학 주제별 학습 아카이브 · one repo per topic</text>
+
+  <!-- topic chips -->
+  <g font-family="ui-monospace, SF Mono, Menlo, monospace" font-size="15" font-weight="600">
+    <g transform="translate(234 224)"><rect width="112" height="30" rx="15" fill="#f1f5f9" stroke="#e2e8f0"/><text x="56" y="20" text-anchor="middle" fill="#6366f1">navigation</text></g>
+    <g transform="translate(356 224)"><rect width="150" height="30" rx="15" fill="#f1f5f9" stroke="#e2e8f0"/><text x="75" y="20" text-anchor="middle" fill="#0891b2">modern robotics</text></g>
+    <g transform="translate(516 224)"><rect width="118" height="30" rx="15" fill="#f1f5f9" stroke="#e2e8f0"/><text x="59" y="20" text-anchor="middle" fill="#5b6b82">more soon…</text></g>
+  </g>
+</svg>
