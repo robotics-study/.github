@@ -13,7 +13,7 @@
 <br>
 
 [![Approach](https://img.shields.io/badge/study-hands--on-6366f1?style=flat-square&labelColor=0f172a)](https://github.com/orgs/robotics-study/repositories)
-[![Docs](https://img.shields.io/badge/docs-github.io-06b6d4?style=flat-square&labelColor=0f172a)](https://robotics-study.github.io/navigation/)
+[![Docs](https://img.shields.io/badge/docs-github.io-06b6d4?style=flat-square&labelColor=0f172a)](https://robotics-study.github.io/navigation_basic/)
 [![Languages](https://img.shields.io/badge/C%2B%2B%20·%20Python-0891b2?style=flat-square&labelColor=0f172a)](#)
 [![Location](https://img.shields.io/badge/Korea-5b6b82?style=flat-square&labelColor=0f172a)](#)
 
@@ -25,8 +25,9 @@
 
 | 주제 | 무엇을 다루나 | Stack | Docs |
 |-------|--------------|-------|------|
-| **[navigation](https://github.com/robotics-study/navigation)** | 경로 계획 — BFS · Dijkstra · A\* · RRT · RRT\* · Fast-RRT | `C++` · `Python` | [📖 site](https://robotics-study.github.io/navigation/) |
+| **[navigation_basic](https://github.com/robotics-study/navigation_basic)** | 경로 계획 — BFS · Dijkstra · A\* · RRT · RRT\* · Fast-RRT | `C++` · `Python` | [📖 site](https://robotics-study.github.io/navigation_basic/) |
 | **[modern_robotics](https://github.com/robotics-study/modern_robotics)** | 강체 운동 · 정·역기구학 · 동역학 *(Modern Robotics, K. Lynch)* | `Python` | [📖 site](https://robotics-study.github.io/modern_robotics/) |
+| **[linear_algebra_to_kalman](https://github.com/robotics-study/linear_algebra_to_kalman)** | 로봇공학의 수학 — 증명 · 선형대수 · 최소제곱 · 행렬 분해 · 칼만 필터 · 최적화 *(ROB 501, J. Grizzle)* | `TypeScript` | [📖 site](https://robotics-study.github.io/linear_algebra_to_kalman/) |
 
 <sub>🟢 active · 주제는 계속 추가됩니다.</sub>
 

@@ -7,12 +7,12 @@
 | 경로 | 용도 |
 |------|------|
 | [`profile/README.md`](profile/README.md) | 조직 프로필 페이지 — [github.com/robotics-study](https://github.com/robotics-study) 상단에 노출 |
-| [`docs/index.html`](docs/index.html) | 조직 랜딩 사이트 (GitHub Pages) — `navigation` 사이트 톤에 맞춘 소개 페이지 |
+| [`docs/index.html`](docs/index.html) | 조직 랜딩 사이트 (GitHub Pages) — `navigation_basic` 사이트 톤에 맞춘 소개 페이지 |
 | `profile/assets/` | 프로필 배너 · 아바타 SVG (라이트/다크 테마) |
 
 ## 배너 수정
 
-`profile/assets/banner-{light,dark}.svg` 를 편집합니다. `navigation` 저장소의 [docs 사이트](https://robotics-study.github.io/navigation/) 디자인(indigo→cyan 그라디언트 · Inter · path-planning 모티프)을 따릅니다.
+`profile/assets/banner-{light,dark}.svg` 를 편집합니다. `navigation` 저장소의 [docs 사이트](https://robotics-study.github.io/navigation_basic/) 디자인(indigo→cyan 그라디언트 · Inter · path-planning 모티프)을 따릅니다.
 
 프리뷰 렌더링:
 
