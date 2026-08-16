@@ -14,7 +14,7 @@
 <br>
 
 [![Topics](https://img.shields.io/badge/repos-per_topic-6366f1?style=flat-square&labelColor=0f172a)](https://github.com/orgs/robotics-study/repositories)
-[![Docs](https://img.shields.io/badge/docs-github.io-06b6d4?style=flat-square&labelColor=0f172a)](https://robotics-study.github.io/navigation/)
+[![Docs](https://img.shields.io/badge/docs-github.io-06b6d4?style=flat-square&labelColor=0f172a)](https://robotics-study.github.io/navigation_basic/)
 [![Languages](https://img.shields.io/badge/C%2B%2B%20·%20Python-0891b2?style=flat-square&labelColor=0f172a)](#)
 [![Location](https://img.shields.io/badge/Korea-5b6b82?style=flat-square&labelColor=0f172a)](#)
 
@@ -28,8 +28,9 @@
 
 | Track | 무엇을 다루나 | Stack | Docs |
 |-------|--------------|-------|------|
-| **[navigation](https://github.com/robotics-study/navigation)** | 경로 계획 알고리즘 — BFS · Dijkstra · A\* · RRT · RRT\* · Fast-RRT. trace 기반 단계별 시각화, 벤치마크, 최적성 증명 | `C++` · `Python` | [📖 site](https://robotics-study.github.io/navigation/) |
+| **[navigation_basic](https://github.com/robotics-study/navigation_basic)** | 경로 계획 알고리즘 — BFS · Dijkstra · A\* · RRT · RRT\* · Fast-RRT. trace 기반 단계별 시각화, 벤치마크, 최적성 증명 | `C++` · `Python` | [📖 site](https://robotics-study.github.io/navigation_basic/) |
 | **[modern_robotics](https://github.com/robotics-study/modern_robotics)** | *Modern Robotics* (Kevin M. Lynch) 완독 스터디 — 강체 운동, 정·역기구학, 동역학 | `Python` | [📖 site](https://robotics-study.github.io/modern_robotics/) |
+| **[linear_algebra_to_kalman](https://github.com/robotics-study/linear_algebra_to_kalman)** | *ROB 501 Mathematics for Robotics* (Jessy Grizzle, U. Michigan) 완독 스터디 — 증명 · 추상 선형대수 · 최소제곱 · 행렬 분해 · 칼만 필터 · 최적화. 정의와 정리를 접이식 증명으로 두고, 개념마다 브라우저에서 직접 돌아가는 figure 를 붙였습니다 | `TypeScript` | [📖 site](https://robotics-study.github.io/linear_algebra_to_kalman/) |
 
 <sub>🟢 active · 저장소는 계속 추가됩니다.</sub>
 

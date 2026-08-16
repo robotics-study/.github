@@ -11,7 +11,7 @@
 
 ## 배너 수정
 
-`profile/assets/banner-{light,dark}.svg` 를 편집합니다. `navigation` 저장소의 [docs 사이트](https://robotics-study.github.io/navigation/) 디자인(indigo→cyan 그라디언트 · Inter · path-planning 모티프)을 따릅니다.
+`profile/assets/banner-{light,dark}.svg` 를 편집합니다. `navigation_basic` 저장소의 [docs 사이트](https://robotics-study.github.io/navigation_basic/) 디자인(indigo→cyan 그라디언트 · Inter · path-planning 모티프)을 따릅니다.
 
 프리뷰 렌더링:
 
