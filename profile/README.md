@@ -37,7 +37,7 @@
 
 **Motion & Control** &nbsp;·&nbsp; `Local planning (DWA · Pure Pursuit · MPC)` &nbsp; `Trajectory optimization` &nbsp; `PID / LQR`
 
-**Perception & State** &nbsp;·&nbsp; `SLAM` &nbsp; `Kalman / EKF / UKF` &nbsp; `Point cloud`
+**Perception & State** &nbsp;·&nbsp; `SLAM` &nbsp; `UKF` &nbsp; `Point cloud` &nbsp; `Localization`
 
 **Multi-agent** &nbsp;·&nbsp; `Prioritized A*` &nbsp; `CBS` &nbsp; `Swarm`
 
