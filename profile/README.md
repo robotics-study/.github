@@ -40,7 +40,7 @@
 
 **Perception & State** &nbsp;·&nbsp; `SLAM` &nbsp; `UKF` &nbsp; `Point cloud` &nbsp; `Localization`
 
-**Swarm** &nbsp;·&nbsp; `Swarm`
+**Multi-agent** &nbsp;·&nbsp; `Swarm`
 
 **Learning** &nbsp;·&nbsp; `RL for control` &nbsp; `Imitation learning`
 
