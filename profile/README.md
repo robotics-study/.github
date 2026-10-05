@@ -28,6 +28,7 @@
 | **[navigation_basic](https://github.com/robotics-study/navigation_basic)** | 경로 계획 — BFS · Dijkstra · A\* · RRT · RRT\* · Fast-RRT | `C++` · `Python` | [📖 site](https://robotics-study.github.io/navigation_basic/) |
 | **[modern_robotics](https://github.com/robotics-study/modern_robotics)** | 강체 운동 · 정·역기구학 · 동역학 *(Modern Robotics, K. Lynch)* | `Python` | [📖 site](https://robotics-study.github.io/modern_robotics/) |
 | **[linear_algebra_to_kalman](https://github.com/robotics-study/linear_algebra_to_kalman)** | 로봇공학의 수학 — 증명 · 선형대수 · 최소제곱 · 행렬 분해 · 칼만 필터 · 최적화 *(ROB 501, J. Grizzle)* | `TypeScript` | [📖 site](https://robotics-study.github.io/linear_algebra_to_kalman/) |
+| **[mrmp_introduction](https://github.com/robotics-study/mrmp_introduction)** | 다개체 모션 플래닝 — 우선순위 · 결합 탐색(CBS) · sampling · decentralized(PIBT) · kinodynamic(MAPF-POST · db-CBS) | `C++` · `Python` | [📖 site](https://robotics-study.github.io/mrmp_introduction/) |
 
 <sub>🟢 active · 주제는 계속 추가됩니다.</sub>
 
@@ -39,7 +40,7 @@
 
 **Perception & State** &nbsp;·&nbsp; `SLAM` &nbsp; `UKF` &nbsp; `Point cloud` &nbsp; `Localization`
 
-**Multi-agent** &nbsp;·&nbsp; `Prioritized A*` &nbsp; `CBS` &nbsp; `Swarm`
+**Multi-agent** &nbsp;·&nbsp; `Swarm`
 
 **Learning** &nbsp;·&nbsp; `RL for control` &nbsp; `Imitation learning`
 
